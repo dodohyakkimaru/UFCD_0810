@@ -132,7 +132,9 @@
     <ClCompile Include="UFCD_0810.c" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="..\TP3_0810_DouglasMatias\txt.txt" />
     <Text Include="ficheiro1.txt" />
+    <Text Include="teste.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

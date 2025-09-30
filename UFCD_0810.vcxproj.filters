@@ -41,5 +41,9 @@
     <Text Include="ficheiro1.txt">
       <Filter>Arquivos de Recurso</Filter>
     </Text>
+    <Text Include="..\TP3_0810_DouglasMatias\txt.txt">
+      <Filter>Arquivos de Origem</Filter>
+    </Text>
+    <Text Include="teste.txt" />
   </ItemGroup>
 </Project>
